@@ -1,0 +1,8 @@
+Load Tree
+============
+
+This will take tree as an input and will test for accuracy for given set of values.
+
+Build Tree
+============
+Will take the given data set as an input and build a Tree.
