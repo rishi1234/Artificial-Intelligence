@@ -1,0 +1,6 @@
+The Tic Tac Toe game is implemented in LISP. The game as several options.
+1.) We can choose the difficulty level.
+2.) User vs. Computer
+3.) User vs. User
+4.) 4*4 Tic-Tac-Toe
+5.) 3D Tic-Tac-Toe
